@@ -20,7 +20,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 2301 McGavran-Greenberg Hall.
 
-* **Office Hours**: Virtual ([whereby](https://whereby.com/yuchaoj)); time TBD.
+* **Office Hours**: Virtual via [whereby](https://whereby.com/yuchaoj); time TBD.
 
 * **Grader**: TBD.
 
@@ -33,3 +33,4 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 ### Other Resources
 
 * **[Tips for Presentation](https://www.dropbox.com/s/k5ymqz8qflpeskl/Tips_for_presentations.pdf?dl=0)**
+* **[Guidelines for Written Review](https://www.dropbox.com/s/8zo65nok6fuhbs9/written_review_guidelines.pdf?dl=0)**
