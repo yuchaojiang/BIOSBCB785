@@ -18,7 +18,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Schedule](https://docs.google.com/spreadsheets/d/1ohj0Wa0zRMdSLZfHQUVki6c1hKWVc77YZRZwVgZgXU8/edit?usp=sharing)**
 
-* **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 2301 McGavran-Greenberg Hall.
+* **Class Time & Location**: Mondays and Wednesdays, 9:05am – 10:20am, 0230 Rosenau Hall (tentative).
 
 * **Office Hours**: virtual via [whereby](https://whereby.com/yuchaoj); time TBD.
 
