@@ -10,7 +10,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ### Course Information
 
-* **Description**: This course is an introductory course to machine learning and statistical learning and is required for MPH students with Data Science concentration. While some technical details will be covered, emphasis will be made on understanding the models, intuitions, and strengths and weaknesses of the various approaches. The goal is to equip students with knowledge of existing tools for data analysis and to get students prepared for more advanced courses in machine learning. Programming language will be R – students will learn how to use the free and powerful software R in connection with each of the methods exposed in the class. For deep learning, Keras/TensorFlow in Python will be introduced if time permits.
+* **Description**: This course is designed to provide graduate students interested in statistical genetics and genomics with an opportunity to gain or enhance knowledge in gene expression analysis by next-generation sequencing. The course is aimed at preparing students for conducting methodological research in high-throughput transcriptomic studies. The course includes two sections: bulk RNA-seq and single-cell RNA-seq (scRNA-seq). Each section starts with biological background, followed by statistical and computational methods, and finishes with biological interpretations and follow-ups. Topics include data normalization, measurement of error models, dispersion shrinkage, dimensionality reduction, zero-inflated factor analysis, batch correction, clustering algorithm, deconvolution, pseudotime reconstruction, deep neural network, and autoencoder, etc.
 
 * **[Course Slack](http://unc785fall2020.slack.com/)**
 
