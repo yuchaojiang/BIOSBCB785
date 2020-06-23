@@ -14,9 +14,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Course Slack](http://unc785fall2020.slack.com/)**
 
-* **[Syllabus](https://www.dropbox.com/s/o7bu8kg1lcv74tc/BIOS%20635_Intro%20Machine%20Learning_Syllabus_v1.pdf?dl=0)**
+* **[Syllabus](https://www.dropbox.com/s/z5tqdqnqdtrma5b/BIOS785_Fall2020_Yuchao_Jiang.pdf?dl=0)**
 
-* **[Schedule](https://www.dropbox.com/s/qoran00l1pfm2qz/CourseSchedule.pdf?dl=0)**
+* **[Schedule](https://docs.google.com/spreadsheets/d/1ohj0Wa0zRMdSLZfHQUVki6c1hKWVc77YZRZwVgZgXU8/edit?usp=sharing)**
 
 * **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 2301 McGavran-Greenberg Hall.
 
