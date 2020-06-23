@@ -25,7 +25,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Grader**: TBD.
 
 
-### Lecture Slides and R Markdowns
+### Lecture Slides
 
 * **Lecture 1**: Introduction to Molecular Biology ([slides](https://www.dropbox.com/s/ur7oevlh3y09xb0/Lecture_1.pdf?dl=0))
 
