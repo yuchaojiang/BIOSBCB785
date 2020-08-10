@@ -33,24 +33,24 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ### Tutorials & Workflows
 
-* RNA-seq analysis: https://github.com/crazyhottommy/RNA-seq-analysis 
-* RNA-seqlopedia: https://rnaseq.uoregon.edu
-* Informatics for RNA-seq: https://github.com/griffithlab/rnaseq_tutorial
-* Analysis of single cell RNA-seq data: https://hemberg-lab.github.io/scRNA.seq.course
-* Awesome single cell: https://github.com/seandavi/awesome-single-cell
-* simpleSingleCell: http://bioconductor.org/packages/simpleSingleCell
-* Orchestrating Single-Cell Analysis with Bioconductor: https://osca.bioconductor.org/
+* [RNA-seq analysis](https://github.com/crazyhottommy/RNA-seq-analysis)
+* [RNA-seqlopedia](https://rnaseq.uoregon.edu)
+* [Informatics for RNA-seq](https://github.com/griffithlab/rnaseq_tutorial)
+* [Analysis of single cell RNA-seq data](https://hemberg-lab.github.io/scRNA.seq.course)
+* [Awesome single cell](https://github.com/seandavi/awesome-single-cell)
+* [simpleSingleCell](http://bioconductor.org/packages/simpleSingleCell)
+* [Orchestrating Single-Cell Analysis with Bioconductor](https://osca.bioconductor.org)
 
 
 ### Resources & Datasets
 
-* GTEx Portal: https://gtexportal.org
-* 10X Genomics single-cell expression: https://support.10xgenomics.com/single-cell-gene-expression/datasets
-* Single Cell Portal: https://portals.broadinstitute.org/single_cell
-* Single Cell Expression Atlas: https://www.ebi.ac.uk/gxa/sc
-* conquer: http://imlspenticton.uzh.ch:3838/conquer
-* Human Cell Atlas: https://www.humancellatlas.org/
-* Mouse Cell Atlas: http://bis.zju.edu.cn/MCA 
+* [GTEx Portal](https://gtexportal.org)
+* [10X Genomics single-cell expression](https://support.10xgenomics.com/single-cell-gene-expression/datasets)
+* [Single Cell Portal](https://portals.broadinstitute.org/single_cell)
+* [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc)
+* [conquer](http://imlspenticton.uzh.ch:3838/conquer)
+* [Human Cell Atlas](https://www.humancellatlas.org/)
+* [Mouse Cell Atlas](http://bis.zju.edu.cn/MCA)
 
 
 ### Other Resources
