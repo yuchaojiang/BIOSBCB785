@@ -20,7 +20,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Class Time & Location**: Mondays and Wednesdays, 9:20am – 10:35am; remote teaching via Zoom.
 
-* **Office Hours**: virtual via [whereby](https://whereby.com/yuchaoj); time TBD.
+* **Office Hours**: Wednesdays 4:00pm – 5:00pm. Make appointments via [Calendly](https://calendly.com/unc785). A zoom session will be automatically generated.
 
 * **Grader**: TBD.
 
