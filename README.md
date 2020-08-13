@@ -22,7 +22,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Office Hours**: Wednesdays 4:00pm – 5:00pm. Make appointments via [Calendly](https://calendly.com/unc785). A zoom session will be automatically generated.
 
-* **Grader**: Taylor Lagler ([email](tmlagler@live.unc.edu))
+* **Grader**: Taylor Lagler tmlagler@live.unc.edu 
 
 
 ### Lecture Slides
