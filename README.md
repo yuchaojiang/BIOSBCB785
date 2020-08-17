@@ -29,7 +29,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 1**: Introduction to Molecular Biology ([slides](https://www.dropbox.com/s/ur7oevlh3y09xb0/Lecture_1.pdf?dl=0), [video](https://www.dropbox.com/s/1sjzh5svf1sp9xh/lecture1.mp4?dl=0))
 * **Lecture 2**: Introduction to RNA Sequencing ([slides](https://www.dropbox.com/s/e9d4jifqvn0rwa7/Lecture_2.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8), [video](https://www.dropbox.com/s/0pjur5clhdilscl/lecture2.mp4?dl=0))
-* **Lecture 3**: RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/ue46rwzmgbk0u51/Lecture_3.pdf?dl=0), [paper](https://www.nature.com/articles/nbt.2931))
+* **Lecture 3**: RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/ue46rwzmgbk0u51/Lecture_3.pdf?dl=0), [paper](https://www.nature.com/articles/nbt.2931), [video](https://www.dropbox.com/s/2uen7uyc92qi3v7/lecture3.mp4?dl=0))
+* **Lecture 4**: RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/4m8ybgbldiujefb/Lecture_4.pdf?dl=0), [paper1](https://academic.oup.com/biostatistics/article/8/1/118/252073), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161))
 
 
 ### Tutorials & Workflows
