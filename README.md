@@ -31,8 +31,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 2**: Introduction to RNA Sequencing ([slides](https://www.dropbox.com/s/e9d4jifqvn0rwa7/Lecture_2.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8), [video](https://www.dropbox.com/s/0pjur5clhdilscl/lecture2.mp4?dl=0))
 * **Lecture 3**: RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/ue46rwzmgbk0u51/Lecture_3.pdf?dl=0), [paper](https://www.nature.com/articles/nbt.2931), [video](https://www.dropbox.com/s/2uen7uyc92qi3v7/lecture3.mp4?dl=0))
 * **Lecture 4**: RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/4m8ybgbldiujefb/Lecture_4.pdf?dl=0), [paper1](https://academic.oup.com/biostatistics/article/8/1/118/252073), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161), [video](https://www.dropbox.com/s/c5o0lo6678vt7d1/lecture4.mp4?dl=0))
-* **Lecture 5**: Isoform Expression ([slides](https://www.dropbox.com/s/p7l50e3tt4djn03/Lecture_5.pdf?dl=0), [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2666817/))
-* **Lecture 6**: Allele-Specific Gene Expression and Mapping of eQTLs ([slides](https://www.dropbox.com/s/tawnik5yphrca10/Lecture_6.pdf?dl=0), [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0420.2011.01654.x), [video](https://www.dropbox.com/s/wyets7z56j8obgu/lecture5.mp4?dl=0))
+* **Lecture 5**: Isoform Expression ([slides](https://www.dropbox.com/s/p7l50e3tt4djn03/Lecture_5.pdf?dl=0), [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2666817/), [video](https://www.dropbox.com/s/wyets7z56j8obgu/lecture5.mp4?dl=0))
+* **Lecture 6**: Allele-Specific Gene Expression and Mapping of eQTLs ([slides](https://www.dropbox.com/s/tawnik5yphrca10/Lecture_6.pdf?dl=0), [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0420.2011.01654.x))
 
 
 ### Tutorials & Workflows
