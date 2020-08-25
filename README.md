@@ -33,6 +33,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 4**: RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/4m8ybgbldiujefb/Lecture_4.pdf?dl=0), [paper1](https://academic.oup.com/biostatistics/article/8/1/118/252073), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161), [video](https://www.dropbox.com/s/c5o0lo6678vt7d1/lecture4.mp4?dl=0))
 * **Lecture 5**: Isoform Expression ([slides](https://www.dropbox.com/s/p7l50e3tt4djn03/Lecture_5.pdf?dl=0), [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2666817/), [video](https://www.dropbox.com/s/wyets7z56j8obgu/lecture5.mp4?dl=0))
 * **Lecture 6**: Allele-Specific Gene Expression and Mapping of eQTLs ([slides](https://www.dropbox.com/s/tawnik5yphrca10/Lecture_6.pdf?dl=0), [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0420.2011.01654.x))
+* **Lecture 7**: Bulk gene expression deconvolution ([slides](https://www.dropbox.com/s/mrjpq5khfduj9yg/Lecture_7.pdf?dl=0), [paper1](https://www.nature.com/articles/nmeth.1439), [paper2](https://www.nature.com/articles/nmeth.3337))
+* **Lecture 8**: Differential gene expression by bulk RNA-seq ([slides](https://www.dropbox.com/s/ny27gkd4mpukwho/Lecture_8.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8))
 
 
 ### Tutorials & Workflows
