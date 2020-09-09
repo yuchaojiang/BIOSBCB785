@@ -36,6 +36,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 7**: Bulk Gene Expression Deconvolution ([slides](https://www.dropbox.com/s/mrjpq5khfduj9yg/Lecture_7.pdf?dl=0), [paper1](https://www.nature.com/articles/nmeth.1439), [paper2](https://www.nature.com/articles/nmeth.3337), [video](https://www.dropbox.com/s/8mxsiymholnqbsg/lecture7.mp4?dl=0))
 * **Lecture 8**: Differential Gene Expression Analysis by Bulk RNA Sequencing ([slides](https://www.dropbox.com/s/ny27gkd4mpukwho/Lecture_8.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8), [video](https://www.dropbox.com/s/92hb86uvdzjg3w2/lecture8.mp4?dl=0))
 * **Lecture 9**: Multiple Hypothesis Testing Correction ([slides](https://www.dropbox.com/s/ga94d261d4d3bps/Lecture_9.pdf?dl=0), [paper](https://www.pnas.org/content/100/16/9440.long), [video](https://www.dropbox.com/s/mrfkev14gyj117e/lecture9.mp4?dl=0))
+* **Lecture 10**: Geneset Enrichment Analysis ([slides](https://www.dropbox.com/s/b2phiw0m05c8hr2/lecture_10.pdf?dl=0), [paper1](https://www.pnas.org/content/102/43/15545.long), [paper2](https://academic.oup.com/nar/article/40/17/e133/2411151))
 
 
 ### Tutorials & Workflows
