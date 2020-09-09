@@ -35,7 +35,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 6**: Allele-Specific Gene Expression and Mapping of eQTLs ([slides](https://www.dropbox.com/s/tawnik5yphrca10/Lecture_6.pdf?dl=0), [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0420.2011.01654.x), [video](https://www.dropbox.com/s/j8dlq3kg0sosdp4/lecture6.mp4?dl=0))
 * **Lecture 7**: Bulk Gene Expression Deconvolution ([slides](https://www.dropbox.com/s/mrjpq5khfduj9yg/Lecture_7.pdf?dl=0), [paper1](https://www.nature.com/articles/nmeth.1439), [paper2](https://www.nature.com/articles/nmeth.3337), [video](https://www.dropbox.com/s/8mxsiymholnqbsg/lecture7.mp4?dl=0))
 * **Lecture 8**: Differential Gene Expression Analysis by Bulk RNA Sequencing ([slides](https://www.dropbox.com/s/ny27gkd4mpukwho/Lecture_8.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8), [video](https://www.dropbox.com/s/92hb86uvdzjg3w2/lecture8.mp4?dl=0))
-* **Lecture 9**: Multiple Hypothesis Testing Correction ([slides](https://www.dropbox.com/s/ga94d261d4d3bps/Lecture_9.pdf?dl=0), [paper](https://www.pnas.org/content/100/16/9440.long))
+* **Lecture 9**: Multiple Hypothesis Testing Correction ([slides](https://www.dropbox.com/s/ga94d261d4d3bps/Lecture_9.pdf?dl=0), [paper](https://www.pnas.org/content/100/16/9440.long), [video](https://www.dropbox.com/s/mrfkev14gyj117e/lecture9.mp4?dl=0))
 
 
 ### Tutorials & Workflows
