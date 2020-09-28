@@ -40,6 +40,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 11**: Introduction to Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/fo4n874jq81k1nf/Lecture_11.pdf?dl=0), [paper1](https://www.sciencedirect.com/science/article/pii/S1097276515002610), [paper2](https://www.nature.com/articles/nrg3833), [video](https://www.dropbox.com/s/afk1wgtaap63jpo/lecture11.mp4?dl=0))
 * **Lecture 12**: Dimensionality Reduction and Data Visualization ([slides](https://www.dropbox.com/s/6tm1ygs2jfrxxuz/Lecture_12.pdf?dl=0), [paper1](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [paper2](https://www.nature.com/articles/nbt.4314), [video](https://www.dropbox.com/s/x10t6884p3p91kv/lecture12.mp4?dl=0))
 * **Lecture 13**: Clustering of Single-Cell RNA Sequencing Data ([slides](https://www.dropbox.com/s/grsyn76ytfoduxd/lecture13.pdf?dl=0), [paper1](https://academic.oup.com/bioinformatics/article-abstract/35/8/1269/5092931?redirectedFrom=fulltext), [paper2](https://academic.oup.com/nar/article/48/1/86/5644992), [video](https://www.dropbox.com/s/w96hcajcf180xty/lecture13.mp4?dl=0))
+* **Lecture 14**: Single-Cell RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/3yoz65yulf4615e/lecture14.pdf?dl=0), [paper](https://www.nature.com/articles/nmeth.4263), [video](https://www.dropbox.com/s/gbmopbt1zxgg1ua/lecture14.mp4?dl=0))
 
 
 ### Tutorials & Workflows
