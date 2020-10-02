@@ -43,6 +43,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 14**: Single-Cell RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/3nupceq3r3y4s03/lecture14.pdf?dl=0), [paper](https://www.nature.com/articles/nmeth.4263), [video](https://www.dropbox.com/s/gbmopbt1zxgg1ua/lecture14.mp4?dl=0))
 * **Lecture 15**: Mid-Semester Review and Project Overview ([slides](https://www.dropbox.com/s/y0vcqmy1solaw2f/Lecture_15.pdf?dl=0))
 * **Lecture 16**: Single-Cell RNA Sequencing Denoising and Imputaton ([slides](https://www.dropbox.com/s/pf7yf1wk620wyvg/Lecture_16.pdf?dl=0), [paper1](https://www.nature.com/articles/s41592-018-0033-z), [paper2](https://www.cell.com/cell/fulltext/S0092-8674(18)30724-4))
+* **Lecture 17**: Single-Cell RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/q122py03elqvt79/Lecture_17.pdf?dl=0), [paper1](https://www.nature.com/articles/nbt.4096), [paper2](https://www.nature.com/articles/nbt.4091))
 
 
 ### Tutorials & Workflows
