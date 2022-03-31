@@ -14,7 +14,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Course Slack](http://unc785fall2020.slack.com/)**
 
-* **[Syllabus](https://www.dropbox.com/s/z5tqdqnqdtrma5b/BIOS785_Fall2020_Yuchao_Jiang.pdf?dl=0)**
+* **[Syllabus](https://www.dropbox.com/s/jqpqxp8hmglyeb0/BIOS785_Fall2020_Yuchao_Jiang.pdf?dl=0)**
 
 * **[Schedule](https://docs.google.com/spreadsheets/d/1ohj0Wa0zRMdSLZfHQUVki6c1hKWVc77YZRZwVgZgXU8/edit?usp=sharing)**
 
