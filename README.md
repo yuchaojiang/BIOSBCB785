@@ -14,15 +14,13 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Course Slack](http://unc785spring2023.slack.com/)**
 
-* **[Syllabus](https://www.dropbox.com/s/jqpqxp8hmglyeb0/BIOS785_Fall2020_Yuchao_Jiang.pdf?dl=0)**
+* **[Syllabus](https://www.dropbox.com/s/wjb3c4ihva60f3g/BIOS785_Spring2023_Yuchao_Jiang.pdf?dl=0)**
 
-* **[Schedule](https://docs.google.com/spreadsheets/d/1ohj0Wa0zRMdSLZfHQUVki6c1hKWVc77YZRZwVgZgXU8/edit?usp=sharing)**
+* **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am; McGavran-Greenberg 2301.
 
-* **Class Time & Location**: Mondays and Wednesdays, 9:20am – 10:35am; remote teaching via Zoom.
+* **Office Hours**: Thursdays 11am - noon; McGavran-Greenberg 4115D.
 
-* **Office Hours**: Wednesdays 4:00pm – 5:00pm. Make appointments via [Calendly](https://calendly.com/unc785). A zoom session will be automatically generated.
-
-* **Grader**: Taylor Lagler tmlagler@live.unc.edu 
+* **Grader**: TBD.
 
 
 ### Lecture Slides/Papers/Videos
