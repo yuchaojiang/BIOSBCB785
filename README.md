@@ -12,7 +12,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Description**: This course is designed to provide graduate students interested in statistical genetics and genomics with an opportunity to gain or enhance knowledge in gene expression analysis by next-generation sequencing. The course is aimed at preparing students for conducting methodological research in high-throughput transcriptomic studies. The course includes two sections: bulk RNA-seq and single-cell RNA-seq (scRNA-seq). Each section starts with biological background, followed by statistical and computational methods, and finishes with biological interpretations and follow-ups. Topics include data normalization, measurement of error models, dispersion shrinkage, dimensionality reduction, zero-inflated factor analysis, batch correction, clustering algorithm, deconvolution, pseudotime reconstruction, deep neural network, and autoencoder, etc.
 
-* **[Course Slack](http://unc785fall2020.slack.com/)**
+* **[Course Slack](http://unc785spring2023.slack.com/)**
 
 * **[Syllabus](https://www.dropbox.com/s/jqpqxp8hmglyeb0/BIOS785_Fall2020_Yuchao_Jiang.pdf?dl=0)**
 
@@ -29,29 +29,6 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 1**: Introduction to Molecular Biology ([slides](https://www.dropbox.com/s/ur7oevlh3y09xb0/Lecture_1.pdf?dl=0))
 * **Lecture 2**: Introduction to RNA Sequencing ([slides](https://www.dropbox.com/s/e9d4jifqvn0rwa7/Lecture_2.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8))
-* **Lecture 3**: RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/ue46rwzmgbk0u51/Lecture_3.pdf?dl=0), [paper](https://www.nature.com/articles/nbt.2931))
-* **Lecture 4**: RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/4m8ybgbldiujefb/Lecture_4.pdf?dl=0), [paper1](https://academic.oup.com/biostatistics/article/8/1/118/252073), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161))
-* **Lecture 5**: Isoform Expression ([slides](https://www.dropbox.com/s/p7l50e3tt4djn03/Lecture_5.pdf?dl=0), [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2666817/))
-* **Lecture 6**: Allele-Specific Gene Expression and Mapping of eQTLs ([slides](https://www.dropbox.com/s/tawnik5yphrca10/Lecture_6.pdf?dl=0), [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0420.2011.01654.x))
-* **Lecture 7**: Bulk Gene Expression Deconvolution ([slides](https://www.dropbox.com/s/mrjpq5khfduj9yg/Lecture_7.pdf?dl=0), [paper1](https://www.nature.com/articles/nmeth.1439), [paper2](https://www.nature.com/articles/nmeth.3337))
-* **Lecture 8**: Differential Gene Expression Analysis by Bulk RNA Sequencing ([slides](https://www.dropbox.com/s/ny27gkd4mpukwho/Lecture_8.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8))
-* **Lecture 9**: Multiple Hypothesis Testing Correction ([slides](https://www.dropbox.com/s/ga94d261d4d3bps/Lecture_9.pdf?dl=0), [paper](https://www.pnas.org/content/100/16/9440.long))
-* **Lecture 10**: Geneset Enrichment Analysis ([slides](https://www.dropbox.com/s/t8tqtk036qks6lc/lecture_10.pdf?dl=0), [paper1](https://www.pnas.org/content/102/43/15545.long), [paper2](https://academic.oup.com/nar/article/40/17/e133/2411151))
-* **Lecture 11**: Introduction to Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/fo4n874jq81k1nf/Lecture_11.pdf?dl=0), [paper1](https://www.sciencedirect.com/science/article/pii/S1097276515002610), [paper2](https://www.nature.com/articles/nrg3833))
-* **Lecture 12**: Dimensionality Reduction and Data Visualization ([slides](https://www.dropbox.com/s/6tm1ygs2jfrxxuz/Lecture_12.pdf?dl=0), [paper1](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [paper2](https://www.nature.com/articles/nbt.4314))
-* **Lecture 13**: Clustering of Single-Cell RNA Sequencing Data ([slides](https://www.dropbox.com/s/grsyn76ytfoduxd/lecture13.pdf?dl=0), [paper1](https://academic.oup.com/bioinformatics/article-abstract/35/8/1269/5092931?redirectedFrom=fulltext), [paper2](https://academic.oup.com/nar/article/48/1/86/5644992))
-* **Lecture 14**: Single-Cell RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/3nupceq3r3y4s03/lecture14.pdf?dl=0), [paper](https://www.nature.com/articles/nmeth.4263))
-* **Lecture 15**: Mid-Semester Review and Project Overview ([slides](https://www.dropbox.com/s/y0vcqmy1solaw2f/Lecture_15.pdf?dl=0))
-* **Lecture 16**: Single-Cell RNA Sequencing Denoising and Imputaton ([slides](https://www.dropbox.com/s/pf7yf1wk620wyvg/Lecture_16.pdf?dl=0), [paper1](https://www.nature.com/articles/s41592-018-0033-z), [paper2](https://www.cell.com/cell/fulltext/S0092-8674(18)30724-4))
-* **Lecture 17**: Single-Cell RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/q122py03elqvt79/Lecture_17.pdf?dl=0), [paper1](https://www.nature.com/articles/nbt.4096), [paper2](https://www.nature.com/articles/nbt.4091))
-* **Lecture 18**: Gene Expression Distribution ([slides](https://www.dropbox.com/s/5b4a2mnp8qczwqu/Lecture_18.pdf?dl=0), [paper1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1077-y), [paper2](https://www.pnas.org/content/115/28/E6437))
-* **Lecture 19**: Allele-Specific Gene Expression by Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/aj9gempy34eame9/Lecture_19.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
-* **Lecture 20**: Introduction to Deep Neural Network ([slides](https://www.dropbox.com/s/q3kna9lc5c67t8j/Lecture_20.pdf?dl=0), [book](http://www.deeplearningbook.org/))
-* **Lecture 21**: Autoencoder and Transfer Learning for Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/thnhf33s7nl5l6q/lecture21.pdf?dl=0), [paper1](https://www.nature.com/articles/s41467-018-07931-2), [paper2](https://www.nature.com/articles/s41592-019-0537-1))
-* **Lecture 22**: Bulk Gene Expression Deconvolution by Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/e12w1ew8qvvlbpv/lecture22.pdf?dl=0), [paper1](https://www.nature.com/articles/s41467-018-08023-x), [paper2](https://projecteuclid.org/euclid.aoas/1520564486))
-* **Lecture 23**: Single-Cell Multimodal Alignment ([slides](https://www.dropbox.com/s/znbqk3otp9dmvdm/Lecture_23.pdf?dl=0), [paper1](https://www.pnas.org/content/115/30/7723.long), [paper2](https://www.cell.com/cell/fulltext/S0092-8674(19)30504-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419305045%3Fshowall%3Dtrue), [paper3](https://www.cell.com/cell/fulltext/S0092-8674(19)30559-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419305598%3Fshowall%3Dtrue))
-* **Lecture 24**: Single-Cell RNA Sequencing in Cancer Genomics ([slides](https://www.dropbox.com/s/bb14j93xbqahho8/Lecture_24.pdf?dl=0), [paper1](https://genome.cshlp.org/content/28/8/1217.long), [paper2](https://www.nature.com/articles/s41592-020-0766-3?proof=t))
-
 
 ### Tutorials & Workflows
 
