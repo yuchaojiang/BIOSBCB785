@@ -20,7 +20,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Office Hours**: Thursdays 11am - noon; McGavran-Greenberg 4115D.
 
-* **Grader**: TBD.
+* **Grader**: Wancen Mu (wancen@live.unc.edu)
 
 
 ### Lecture Slides/Papers/Videos
