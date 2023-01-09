@@ -16,6 +16,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Syllabus](https://www.dropbox.com/s/wjb3c4ihva60f3g/BIOS785_Spring2023_Yuchao_Jiang.pdf?dl=0)**
 
+* **[Course Schedule](https://docs.google.com/spreadsheets/d/1TjQCCgqk-1s0F8PrYYB7yeJAWmy6xEWw5RiEmpNhVRw/edit?usp=sharing)**
+
 * **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am; McGavran-Greenberg 2301.
 
 * **Office Hours**: Thursdays 11am - noon; McGavran-Greenberg 4115D.
