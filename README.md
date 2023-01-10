@@ -55,4 +55,4 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 ### Other Resources
 
 * [Tips for Presentation](https://www.dropbox.com/s/k5ymqz8qflpeskl/Tips_for_presentations.pdf?dl=0)
-* [Guidelines for Written Review](https://www.dropbox.com/s/sdmw37fo8pnmrsq/Written_review_guidelines.pdf?dl=0)
+* [Guidelines for Written Review](https://www.dropbox.com/s/rr82bz5alp8ewcx/Written_review_assignments.pdf?dl=0)
