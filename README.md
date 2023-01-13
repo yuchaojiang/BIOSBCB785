@@ -29,6 +29,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 1**: Introduction to Molecular Biology ([slides](https://www.dropbox.com/s/8gmtr40ru33od5n/Lecture_1.pdf?dl=0))
 * **Lecture 2**: Introduction to RNA Sequencing ([slides](https://www.dropbox.com/s/iq049r01h5hy496/Lecture_2.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8))
+* **Lecture 3**: RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/q3buwqo7b29b8vl/Lecture_3.pdf?dl=0), [paper](https://www.nature.com/articles/nbt.2931))
+* **Lecture 4**: RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/hpe3y5j7ssfy5kw/Lecture_4.pdf?dl=0), [paper1](https://academic.oup.com/biostatistics/article/8/1/118/252073), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161))
 
 ### Tutorials & Workflows
 
