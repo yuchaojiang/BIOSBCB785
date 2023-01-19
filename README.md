@@ -31,6 +31,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 2**: Introduction to RNA Sequencing ([slides](https://www.dropbox.com/s/iq049r01h5hy496/Lecture_2.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8))
 * **Lecture 3**: RNA Sequencing Data Normalization ([slides](https://www.dropbox.com/s/q3buwqo7b29b8vl/Lecture_3.pdf?dl=0), [paper](https://www.nature.com/articles/nbt.2931))
 * **Lecture 4**: RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/hpe3y5j7ssfy5kw/Lecture_4.pdf?dl=0), [paper1](https://academic.oup.com/biostatistics/article/8/1/118/252073), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161))
+* **Lecture 5**: Isoform Expression ([slides](https://www.dropbox.com/s/yc32x8roea1uk9i/Lecture_5.pdf?dl=0), [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2666817/))
+* **Lecture 6**: Allele-Specific Gene Expression and Mapping of eQTLs ([slides](https://www.dropbox.com/s/m7a2x1ffxwb287i/Lecture_6.pdf?dl=0), [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0420.2011.01654.x))
 
 ### Tutorials & Workflows
 
