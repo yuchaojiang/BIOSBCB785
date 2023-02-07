@@ -37,6 +37,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 8**: Differential Gene Expression Analysis by Bulk RNA Sequencing ([slides](https://www.dropbox.com/s/0yctgxsa4gp0nim/Lecture_8.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8))
 * **Lecture 9**: Gene Set Enrichment Analysis ([slides](https://www.dropbox.com/s/80n38aj9ws3h7b3/lecture_9_new.pdf?dl=0), [paper1](https://www.pnas.org/content/102/43/15545.long), [paper2](https://academic.oup.com/nar/article/40/17/e133/2411151))
 * **Lecture 10**: Multiple Hypothesis Testing Correction ([slides](https://www.dropbox.com/s/dy1geo1qly8skhv/Lecture_10.pdf?dl=0), [paper](https://www.pnas.org/content/100/16/9440.long))
+* **Lecture 11**: Introduction to Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/kafci5whovtj614/Lecture_11.pdf?dl=0), [paper1](https://www.sciencedirect.com/science/article/pii/S1097276515002610), [paper2](https://www.nature.com/articles/nrg3833))
 
 ### Tutorials & Workflows
 
