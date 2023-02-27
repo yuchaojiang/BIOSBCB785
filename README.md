@@ -41,6 +41,11 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 12**: Dimensionality Reduction and Data Visualization ([slides](https://www.dropbox.com/s/ngsch65gjrn1k24/Lecture_12.pdf?dl=0), 
 [paper1](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [paper2](https://www.nature.com/articles/nbt.4314))
 * **Lecture 13**: Single-Cell RNA Sequencing Analysis Workflow ([slides](https://www.dropbox.com/s/zs93y79mlhn7dfn/lecture13.pdf?dl=0), [paper1](https://www.embopress.org/doi/full/10.15252/msb.20188746), [paper2](https://www.nature.com/articles/s41592-019-0654-x))
+* **Lecture 14**: Clustering of Single-Cell RNA Sequencing Data 
+([slides](https://www.dropbox.com/s/wudpn8ukz4v4bko/lecture14.pdf?dl=0), 
+[paper1](https://academic.oup.com/bioinformatics/article-abstract/35/8/1269/5092931?redirectedFrom=fulltext), 
+[paper2](https://www.nature.com/articles/s41598-019-41695-z))
+* **Lecture 15**: Mid-Semester Review and Project Overview ([slides](https://www.dropbox.com/s/q88f2cay2cwjnec/Lecture_15.pdf?dl=0))
 
 ### Tutorials & Workflows
 
