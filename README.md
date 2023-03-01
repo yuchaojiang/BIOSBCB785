@@ -45,7 +45,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 ([slides](https://www.dropbox.com/s/wudpn8ukz4v4bko/lecture14.pdf?dl=0), 
 [paper1](https://academic.oup.com/bioinformatics/article-abstract/35/8/1269/5092931?redirectedFrom=fulltext), 
 [paper2](https://www.nature.com/articles/s41598-019-41695-z))
-* **Lecture 15**: Mid-Semester Review and Project Overview ([slides](https://www.dropbox.com/s/q88f2cay2cwjnec/Lecture_15.pdf?dl=0))
+* **Lecture 15**: Mid-Semester Review and Project Overview ([slides](https://www.dropbox.com/s/q88f2cay2cwjnec/Lecture_15.pdf?dl=0), [review](https://www.dropbox.com/s/9g5zbsjft68fudb/review.pdf?dl=0))
 
 ### Tutorials & Workflows
 
