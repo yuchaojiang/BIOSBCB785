@@ -39,7 +39,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 10**: Multiple Hypothesis Testing Correction ([slides](https://www.dropbox.com/s/dy1geo1qly8skhv/Lecture_10.pdf?dl=0), [paper](https://www.pnas.org/content/100/16/9440.long))
 * **Lecture 11**: Introduction to Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/kafci5whovtj614/Lecture_11.pdf?dl=0), [paper1](https://www.sciencedirect.com/science/article/pii/S1097276515002610), [paper2](https://www.nature.com/articles/nrg3833))
 * **Lecture 12**: Dimensionality Reduction and Data Visualization ([slides](https://www.dropbox.com/s/ngsch65gjrn1k24/Lecture_12.pdf?dl=0), 
-[paper1](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [paper2](https://www.nature.com/articles/nbt.4314))
+[paper1](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [paper2](https://www.nature.com/articles/nbt.4314), [script](https://www.dropbox.com/s/6yxdds6vehj1ko9/lecture12.R?dl=0))
 * **Lecture 13**: Single-Cell RNA Sequencing Analysis Workflow ([slides](https://www.dropbox.com/s/zs93y79mlhn7dfn/lecture13.pdf?dl=0), [paper1](https://www.embopress.org/doi/full/10.15252/msb.20188746), [paper2](https://www.nature.com/articles/s41592-019-0654-x))
 * **Lecture 14**: Clustering of Single-Cell RNA Sequencing Data 
 ([slides](https://www.dropbox.com/s/wudpn8ukz4v4bko/lecture14.pdf?dl=0), 
