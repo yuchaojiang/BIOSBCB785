@@ -46,6 +46,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 [paper1](https://academic.oup.com/bioinformatics/article-abstract/35/8/1269/5092931?redirectedFrom=fulltext), 
 [paper2](https://www.nature.com/articles/s41598-019-41695-z))
 * **Lecture 15**: Mid-Semester Review and Project Overview ([slides](https://www.dropbox.com/s/q88f2cay2cwjnec/Lecture_15.pdf?dl=0), [review](https://www.dropbox.com/s/9g5zbsjft68fudb/review.pdf?dl=0))
+* **Lecture 16**: Single-Cell RNA Sequencing Denoising and Imputaton ([slides](https://www.dropbox.com/s/7fj8tsq681vg80m/Lecture_16.pdf?dl=0), [paper1](https://www.nature.com/articles/s41592-018-0033-z), [paper2](https://www.cell.com/cell/fulltext/S0092-8674(18)30724-4))
+* **Lecture 17**: Single-Cell RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/wyoty7bfizmg5zu/Lecture_17.pdf?dl=0), [paper1](https://www.nature.com/articles/nbt.4096), [paper2](https://www.nature.com/articles/nbt.4091))
 
 ### Tutorials & Workflows
 
