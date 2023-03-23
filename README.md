@@ -50,6 +50,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 17**: Single-Cell RNA Sequencing Batch Correction ([slides](https://www.dropbox.com/s/wyoty7bfizmg5zu/Lecture_17.pdf?dl=0), [paper1](https://www.nature.com/articles/nbt.4096), [paper2](https://www.nature.com/articles/nbt.4091))
 * **Lecture 18**: Introduction to Deep Neural Network ([slides](https://www.dropbox.com/s/0smnnacb2g0zy2s/Lecture_18.pdf?dl=0), [book](http://www.deeplearningbook.org/))
 * **Lecture 19**: Allele-Specific Gene Expression by Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/hx0af78zqkzrivw/Lecture_19.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
+* **Lecture 20**: Gene Expression Distribution ([slides](https://www.dropbox.com/s/ajvnvs2far11651/Lecture_20.pdf?dl=0), [paper1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1077-y), [paper2](https://www.pnas.org/content/115/28/E6437))
+* **Lecture 21**: Bulk Gene Expression Deconvolution by Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/umyrfm56oxxx7dh/Lecture_21.pdf?dl=0), [paper1](https://www.nature.com/articles/s41467-018-08023-x), [paper2](https://projecteuclid.org/euclid.aoas/1520564486))
+
 
 ### Tutorials & Workflows
 
