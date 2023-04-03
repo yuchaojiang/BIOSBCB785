@@ -52,7 +52,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 19**: Allele-Specific Gene Expression by Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/hx0af78zqkzrivw/Lecture_19.pdf?dl=0), [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
 * **Lecture 20**: Gene Expression Distribution ([slides](https://www.dropbox.com/s/ajvnvs2far11651/Lecture_20.pdf?dl=0), [paper1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1077-y), [paper2](https://www.pnas.org/content/115/28/E6437))
 * **Lecture 21**: Bulk Gene Expression Deconvolution by Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/umyrfm56oxxx7dh/Lecture_21.pdf?dl=0), [paper1](https://www.nature.com/articles/s41467-018-08023-x), [paper2](https://projecteuclid.org/euclid.aoas/1520564486))
-
+* **Lecture 22**: Autoencoder and Transfer Learning for Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/cz24fgci3709ehj/lecture22.pdf?dl=0), [paper1](https://www.nature.com/articles/s41467-018-07931-2), [paper2](https://www.nature.com/articles/s41592-019-0537-1))
 
 ### Tutorials & Workflows
 
