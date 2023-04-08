@@ -55,7 +55,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 22**: Autoencoder and Transfer Learning for Single-Cell RNA Sequencing ([slides](https://www.dropbox.com/s/cz24fgci3709ehj/lecture22.pdf?dl=0), [paper1](https://www.nature.com/articles/s41467-018-07931-2), [paper2](https://www.nature.com/articles/s41592-019-0537-1))
 * **Lecture 23**: Single-Cell Multimodal Alignment ([slides](https://www.dropbox.com/s/skh4316ij503osx/Lecture_23.pdf?dl=0), [paper1](https://www.pnas.org/content/115/30/7723.long), [paper2](https://www.cell.com/cell/fulltext/S0092-8674(19)30504-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419305045%3Fshowall%3Dtrue), [paper3](https://www.cell.com/cell/fulltext/S0092-8674(19)30559-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419305598%3Fshowall%3Dtrue))
 * **Lecture 24**: Integrative Analysis of Genome-Wide Association Studies and Single-Cell RNA Sequencing  ([slides](), [paper1](https://www.cell.com/ajhg/fulltext/S0002-9297(17)30378-6), [paper2](https://www.nature.com/articles/s41588-018-0081-4), [paper3](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010251))
-* **Lecture 25**: Single-Cell RNA Sequencing in Cancer Genomics ([slides](), [paper1](https://genome.cshlp.org/content/28/8/1217.long), [paper2](https://www.nature.com/articles/s41592-020-0766-3?proof=t))
+* **Lecture 25**: Single-Cell RNA Sequencing in Cancer Genomics ([slides](https://www.dropbox.com/s/7y04v6vfxz64eeo/Lecture_25.pdf?dl=0), [paper1](https://genome.cshlp.org/content/28/8/1217.long), [paper2](https://www.nature.com/articles/s41592-020-0766-3?proof=t))
 
 
 ### Tutorials & Workflows
