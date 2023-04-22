@@ -59,6 +59,10 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 26**: Single-Cell Trajectory Inference and RNA Velocity ([slides](https://www.dropbox.com/s/rbaq8eu4yuln9hu/BIOSBCB785_trajectory_analysis.pdf?dl=0), [paper1](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4772-0), [paper2](https://www.nature.com/articles/s41587-019-0071-9), [paper3](https://www.nature.com/articles/s41586-018-0414-6), [script](https://colab.research.google.com/drive/14LRc76ltDEnHi4v2jUWCS9Tad-RbXOLz?usp=sharing))
 * **Lecture 27**: Single-Cell QTL Mapping ([slides](https://www.dropbox.com/s/4lec987h5kjdt8n/lecture27_single_cell_QTL.pdf?dl=0), [paper1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02293-3), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009666))
 
+### Coding Assignment
+* [Instructions](https://www.dropbox.com/s/yre9bhlj33tk87z/BIOS_BCB_785_Spring2023_coding_assignment.pdf?dl=0)
+* [Solutions](https://www.dropbox.com/s/6r5acolodtlzb02/BIOS785_Fall2020_Krajewski_coding_assignment.pdf?dl=0)
+
 ### Tutorials & Workflows
 
 * [RNA-seq analysis](https://github.com/crazyhottommy/RNA-seq-analysis)
