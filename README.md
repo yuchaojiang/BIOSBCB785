@@ -57,7 +57,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 24**: Integrative Analysis of Genome-Wide Association Studies and Single-Cell Omics  ([slides](https://www.dropbox.com/s/4mdtuot5vkox4v1/lecture24.pdf?dl=0), [paper1](https://www.cell.com/ajhg/fulltext/S0002-9297(17)30378-6), [paper2](https://www.nature.com/articles/s41588-018-0081-4), [paper3](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010251))
 * **Lecture 25**: Single-Cell RNA Sequencing in Cancer Genomics ([slides](https://www.dropbox.com/s/7y04v6vfxz64eeo/Lecture_25.pdf?dl=0), [paper1](https://genome.cshlp.org/content/28/8/1217.long), [paper2](https://www.nature.com/articles/s41592-020-0766-3?proof=t))
 * **Lecture 26**: Single-Cell Trajectory Inference and RNA Velocity ([slides](https://www.dropbox.com/s/rbaq8eu4yuln9hu/BIOSBCB785_trajectory_analysis.pdf?dl=0), [paper1](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4772-0), [paper2](https://www.nature.com/articles/s41587-019-0071-9), [paper3](https://www.nature.com/articles/s41586-018-0414-6), [script](https://colab.research.google.com/drive/14LRc76ltDEnHi4v2jUWCS9Tad-RbXOLz?usp=sharing))
-* **Lecture 27**: Single-Cell QTL Mapping (slides, [paper1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02293-3), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009666))
+* **Lecture 27**: Single-Cell QTL Mapping ([slides](https://www.dropbox.com/s/4lec987h5kjdt8n/lecture27_single_cell_QTL.pdf?dl=0), [paper1](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02293-3), [paper2](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009666))
 
 ### Tutorials & Workflows
 
