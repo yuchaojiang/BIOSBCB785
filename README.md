@@ -61,7 +61,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ### Coding Assignment
 * [Instructions](https://www.dropbox.com/s/yre9bhlj33tk87z/BIOS_BCB_785_Spring2023_coding_assignment.pdf?dl=0)
-* [Solutions](https://www.dropbox.com/s/6r5acolodtlzb02/BIOS785_Fall2020_Krajewski_coding_assignment.pdf?dl=0)
+* [Solutions1](https://www.dropbox.com/s/6r5acolodtlzb02/BIOS785_Fall2020_Krajewski_coding_assignment.pdf?dl=0), [Solutions2](https://www.dropbox.com/s/uxeh14hbgxc7vyv/Abdalla_Alkhawaja_bios785_coding_assignment.html?dl=0)
 
 ### Tutorials & Workflows
 
